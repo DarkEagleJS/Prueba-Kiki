@@ -1,0 +1,74 @@
+{
+    "cities": [
+        { 
+            "id": "1",
+            "value": "Bogota",
+            "display": "Bogota",
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "2",
+            "value": "Medellin",
+            "display": "Medellin",
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "3",
+            "value": "Santa Marta",
+            "display": "Santa Marta",
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "4",
+            "value": "Barranquilla",
+            "display": "Barranquilla",
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "5",
+            "value": "Leticia",
+            "display": "Leticia" ,
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "6",
+            "value": "Pasto",
+            "display": "Pasto" ,
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "7",
+            "value": "Manizales",
+            "display": "Manizales",
+            "latitud": 1,
+            "longitud": 1 
+        },
+        { 
+            "id": "8",
+            "value": "Bucaramanga",
+            "display": "Bucaramanga",
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "9",
+            "value": "Pereira",
+            "display": "Pereira",
+            "latitud": 1,
+            "longitud": 1
+        },
+        { 
+            "id": "10",
+            "value": "Cali",
+            "display": "Cali",
+            "latitud": 1,
+            "longitud": 1
+        }
+    ]
+  }
