@@ -87,13 +87,13 @@ function ShipmentForm() {
         rows={3}
         onChange={handleChange}
         className="border-2 border-gray-700 p-2 rounded-lg bg-zinc-800 block w-full my-2"
-        placeholder="Write a description"
+        placeholder="CONTENIDO"
       ></textarea>
       <span>Ingrese Fecha de Envio</span>
       <input
         name="fechaEnvio"
         type="text"
-        placeholder="Write a task"
+        placeholder="FECHA ENVIO"
         onChange={handleChange}
         className="border-2 border-gray-700 p-2 rounded-lg bg-zinc-800 block w-full my-2"
       />
